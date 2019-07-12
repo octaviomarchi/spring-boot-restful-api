@@ -1,4 +1,4 @@
-package com.springboot.restfulapi.springbootrestfulapi;
+package com.springboot.restfulapi.springbootrestfulapi.helloworld;
 
 public class HelloWorldBean {
 	
